@@ -3,7 +3,8 @@
 ## Correr el servidor:
 
 - Dentro de la terminal, ingresar a la carpeta del proyecto;
-- Ejecutar el comando <pre><code>"npm start"</code></pre>
+- Posteriormente ejecutar el comando: <pre><code>"npm install"</code></pre>
+- Ejecutar el comando: <pre><code>"npm start"</code></pre>
 
 El servidor se ejecutará en el puerto 3000 "http://localhost:3000/"
 
